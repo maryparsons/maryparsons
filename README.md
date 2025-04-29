@@ -3,7 +3,7 @@
 
 🤓 Currently learning {fill in the blank... I still need to learn lots of things about everything}. 🙋‍♀️ Lifelong learner.
 
-🎯 Intently focused on [zarf](https://github.com/zarf-dev), [pepr](https://github.com/defenseunicorns/pepr), and [lula](https://github.com/defenseunicorns/lula) from [Defense Unicorns](https://github.com/defenseunicorns). 🦄
+🎯 Intently focused on [zarf](https://github.com/zarf-dev) and [pepr](https://github.com/defenseunicorns/pepr) from [Defense Unicorns](https://github.com/defenseunicorns). 🦄
 
 👀 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mary-parsons-8492b439)
